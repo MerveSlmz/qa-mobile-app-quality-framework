@@ -1,39 +1,33 @@
 # QA Mobile App Quality Framework
 
-This repository is a comprehensive Quality Assurance case study designed for mobile applications, inspired by large-scale consumer apps such as Duolingo, Retake AI, and similar AI-driven products.
+This repository represents a comprehensive Quality Assurance case study designed for a consumer mobile application, inspired by large-scale, data-driven tech companies such as Codeway.
 
-The goal of this project is to demonstrate a full QA lifecycle including requirement analysis, manual testing, bug reporting, metrics tracking, and basic automation structure.
+The project demonstrates my approach to **manual testing, bug reporting, quality metrics tracking, and QA ownership** throughout the software development lifecycle.
 
-## Project Scope
-- Mobile application (iOS & Android)
-- User-centric, high-traffic consumer app
-- Focus on quality before global release
+---
 
-## Structure
+## 🎯 Project Purpose
 
-- manual-testing/
-  - Test scenarios and test cases
-- bug-reporting/
-  - Documented bugs with severity, priority, and reproduction steps
-- automation/
-  - Automation framework structure (demo)
-- api-testing/
-  - API test cases and sample requests
-- metrics/
-  - QA metrics such as defect density and open defect counts
-- requirements/
-  - Requirement review and acceptance criteria
-- screenshots/
-  - Visual evidence for bugs and test results
+The goal of this project is to showcase how a QA Engineer contributes not only by executing tests, but by:
 
-## Tools & Methodologies
-- Manual Testing
-- Exploratory Testing
-- Regression Testing
-- Black-box Testing
-- QA Metrics Tracking
-- Agile / Scrum mindset
+- Ensuring product quality before release
+- Thinking from an end-user perspective
+- Taking ownership of product stability
+- Supporting data-driven quality decisions
 
-## Author
-QA Intern Candidate  
+---
+
+## 🧪 Scope of Testing
+
+This case study assumes a **mobile language learning application** with features such as:
+- User authentication
+- Lesson flow
+- Progress tracking
+- In-app feedback
+- Network-dependent actions
+
+---
+
+## 📁 Project Structure
+
 
